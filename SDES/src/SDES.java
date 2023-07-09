@@ -1,6 +1,8 @@
 import java.awt.datatransfer.StringSelection;
 import java.io.DataInputStream;
-
+/*
+ * Link For reference: https://www.brainkart.com/article/Simplified-Data-Encryption-Standard-(S-DES)_8343/
+ */ // https://www.brainkart.com/article/Simplified-Data-Encryption-Standard-(S-DES)_8343/
 public class SDES {
 
 	public int K1,K2;
