@@ -60,9 +60,9 @@ public class AES {
     
     public static void main(String[] args)
     {
-        final String secretKey = "ThisIsTheKey123#";
+        final String secretKey = "WhoseTheBossKaustubh";
          
-        String originalString = "Kaustubh Yerkade";
+        String originalString = "PICT is the best college in PUNE";
         String encryptedString = AES.encrypt(originalString, secretKey) ;
         String decryptedString = AES.decrypt(encryptedString, secretKey) ;
          

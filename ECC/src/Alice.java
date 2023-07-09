@@ -4,11 +4,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 public class Alice {
-	/*
-	 * 	
-	 *   YOUTUBE LINK for REFERENCE: https://youtu.be/u8puACVWPZA
-	 * 	 Length: 11 mins
-	 */
+	
 	
 public static void main(String[] args) throws Exception {
 	System.out.println("==============Server Side(ALICE)====================");
